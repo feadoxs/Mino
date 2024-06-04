@@ -28,7 +28,7 @@ const DonationForm = () => {
                 </label>
                 <button
                     type="submit"
-                    className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600"
+                    className="w-full bg-[#e00707] hover:bg-[rgb(255,67,67)] text-white py-2 rounded-md"
                 >
                     {t("donate.donationForm.submitButton")}
                 </button>
