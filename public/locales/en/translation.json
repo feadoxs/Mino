@@ -9,7 +9,7 @@
         "button1": "Login",
         "button2": "Register",
         "section": {
-            "title": "Where it's delicious, warm, and cozy.",
+            "title": "Where it's tasty, warm, and cozy.",
             "text": "Restaurants"
         }
     },
@@ -28,8 +28,8 @@
     },
     "footer": {
         "first": {
-            "p": "About Fress Project",
-            "li1": "Activity",
+            "p": "About the Fress Project",
+            "li1": "Activities",
             "li2": "Contacts"
         },
         "second": {
@@ -42,13 +42,13 @@
             "li1": "Mino Business",
             "li2": "For Restaurants",
             "li3": "For Stores",
-            "li4": "For Services"
+            "li4": "For Service Sector"
         },
         "text": "© 2024 All rights reserved."
     },
     "about": {
         "title": "About Our Company",
-        "text": "There is a controversial point of view, which reads approximately as follows: thorough research of competitors is still the lot of liberals who crave to be represented in an exclusively positive light. Taking into account the performance indicators, socio-economic development is an interesting experiment to verify the tasks set by society. As is customary, those striving to oust traditional production, nanotechnology, regardless of their level, should be associatively distributed across industries. Only those striving to oust traditional production, nanotechnology call us to new achievements, which, in turn, should be declared as violating universal norms of ethics and morality.",
+        "text": "There is a controversial point of view that goes something like this: thorough research of competitors remains the prerogative of liberals who wish to be portrayed in an exclusively positive light. Taking success indicators into account, socio-economic development represents an interesting experiment in testing society's set goals. It is generally accepted that striving to displace traditional production, nanotechnologies, regardless of their level, should be associatively distributed across industries. Only those striving to displace traditional production, nanotechnologies call us to new achievements, which, in turn, should be declared as violating universal norms of ethics and morality.",
         "card": {
             "title1": "6 years",
             "text1": "Work experience",
@@ -65,8 +65,8 @@
         "card": {
             "title1": "Phone",
             "text1": "+992 988 888 177",
-            "title2": "Company Address",
-            "text2": "Rahimi Street 12, Landmark: Trade Union",
+            "title2": "Company address",
+            "text2": "Rahimi Street 12, landmark: Trade Union",
             "title3": "E-mail",
             "text3": "fless@gmail.com"
         }
@@ -82,33 +82,37 @@
         "number": "Phone",
         "phone": "Mobile number",
         "password": "Create password",
-        "name": "First name",
-        "surname": "Last name",
+        "name": "First Name",
+        "surname": "Last Name",
         "button": "Register",
-        "text": "By logging in and registering, you agree to the Site Terms of Use and Privacy Policy.",
+        "text": "By logging in and registering, you agree to the Terms of Use and Privacy Policy.",
         "text2": "Already have an account?",
         "link": "Login"
     },
     "login": {
         "title": "Login to your account",
-        "login": "Username",
+        "login": "Login",
         "password": "Enter password",
         "button": "Login",
-        "text": "By logging in and registering, you agree to the Site Terms of Use and Privacy Policy.",
-        "text2": "Don't have an account?",
+        "text": "By logging in and registering, you agree to the Terms of Use and Privacy Policy.",
+        "text2": "No account?",
         "link": "Register."
     },
     "turkish": {
         "city": "Dushanbe",
         "title": "Turkish cuisine in Dushanbe"
     },
-    "nationation": {
+    "national": {
         "city": "Dushanbe",
         "title": "National cuisine in Dushanbe"
     },
     "burger": {
         "city": "Dushanbe",
         "title": "Burgers in Dushanbe"
+    },
+    "plow": {
+        "city": "Dushanbe",
+        "title": "Pilaf in Dushanbe"
     },
     "save": {
         "title": "Saved"
@@ -118,7 +122,7 @@
     },
     "home": {
         "title": "Our Achievements",
-        "titleMap": "Companies partnering with us"
+        "titleMap": "Companies that cooperate with us"
     },
     "error": {
         "error": "Error!"
@@ -130,7 +134,7 @@
             "title2": "How Your Donation Helps",
             "description2": "Your donation helps us provide essential services and support to our community.",
             "title3": "Get Involved",
-            "description3": "Join us in making a difference by donating or volunteering your time."
+            "description3": "Join us in making a difference by donating or volunteering."
         },
         "donationForm": {
             "title": "Donate Now",
@@ -139,10 +143,37 @@
             "submitButton": "Donate"
         },
         "phoneDonation": {
-            "title": "Prefer to donate via phone?",
-            "description": "Send your donation to:",
+            "title": "Prefer to donate by phone?",
+            "description": "Send your donation to the number:",
             "number": "123-456-7890"
         },
-        "text": "Generating placeholder text is quite simple: there are several fixed sets of phrases and word combinations, which are formed into sentences in a certain order. The sentences are compiled into paragraphs - and you enjoy another nonsense masterpiece. The idea behind the generator is borrowed from a pseudo-Soviet universal speech code, from which we pulled the used phrases, added a decent amount of our own, significantly complicated the algorithm by adding new assembly schemes - and made it a fast and convenient service for obtaining test content."
+        "text": "Generating placeholder text is quite simple: there are several fixed sets of phrases and word combinations from which sentences are formed in a certain order. Sentences form paragraphs - and you enjoy another nonsense masterpiece. The idea behind the generator is borrowed from the pseudo-Soviet universal speech code, from which we extracted the used word combinations, added a decent amount of our own, complicated the algorithm several times, adding new assembly schemes, and packaged it into a fast and convenient service for obtaining test content."
+    },
+    "aboutCard": {
+        "title": "Our Team",
+        "mission": "Our Mission",
+        "text": "We strive to provide our customers with the best products and services using innovative technologies and advanced solutions. Our team is our main strength, and we are always ready to meet your expectations.",
+        "card": {
+            "title1": "Anna Ivanova",
+            "position1": "Head of Sales",
+            "text1": "Anna has been working in our company for 10 years. During this time, she has established herself as a true professional in her field. Anna successfully manages the sales department, develops customer acquisition strategies, and ensures the achievement of plans. Her determination and attention to detail inspire the entire team.",
+            "title2": "Boris Petrov",
+            "position2": "Lead Developer",
+            "text2": "Boris is our chief technical expert. He joined us 5 years ago and has since become an indispensable part of our team. Boris is responsible for developing and implementing innovative solutions that help our company stay at the forefront of the industry. His knowledge and experience allow us to carry out the most complex projects.",
+            "title3": "Ekaterina Smirnova",
+            "position3": "Marketing Director",
+            "text3": "Ekaterina joined our team 3 years ago and has since achieved impressive results. She is responsible for developing marketing strategies and promoting our company in the market. Thanks to her creative approach and analytical skills, we have been able to significantly expand our audience and strengthen our market position."
+        }
+    },
+    "category": {
+        "title": "Why Choose Us",
+        "card": {
+            "title1": "Fast and Reliable Platform",
+            "text1": "Our site works quickly and stably, providing you with the best user experience. We use the latest technologies to ensure maximum performance.",
+            "title2": "Users Are Our Main Value",
+            "text2": "We always put our users first. Our support team is always ready to help you in any situation and do everything possible for your satisfaction.",
+            "title3": "Security and Data Protection",
+            "text3": "We provide a high level of security for all our users. Your data is protected using modern encryption methods and other security measures."
+        }
     }
 }
