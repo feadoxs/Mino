@@ -100,9 +100,9 @@ const Layout = () => {
             </div>
             <ul className='flex lg:hidden'>
               <Link to={"/каталог"}><li><a href="каталог" className='mr-[20px] text-[#192734] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li1")}</a></li></Link>
-              <Link to={"/about"}><li className='mr-[30px]'><a href="about" className='text-[#192734] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li2")}</a></li></Link>
-              <Link to={"/контакты"}><li><a href="контакты" className='text-[#192734] mr-[22px] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li3")}</a></li></Link>
-              <Link to={"/донат"}><li><a href="донат" className='text-[#192734] mr-[22px] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li4")}</a></li></Link>
+              <Link to={"/about"}><li className='mr-[20px]'><a href="about" className='text-[#192734] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li2")}</a></li></Link>
+              <Link to={"/контакты"}><li><a href="контакты" className='text-[#192734] mr-[20px] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li3")}</a></li></Link>
+              <Link to={"/донат"}><li><a href="донат" className='text-[#192734] mr-[20px] text-[14px] font-[Montserrat-medium] dark:text-[white]'>{t("header.nav.li4")}</a></li></Link>
             </ul>
 
 
@@ -176,7 +176,7 @@ const Layout = () => {
               <FontAwesomeIcon className='text-[20px] dark:text-[white] text-[#192734] cursor-pointer' onClick={() => { localStorage.removeItem("user"), setUpdate() }} icon={faArrowRightFromBracket} />
             </div> : <div>
               <button className='mr-[10px] border-2 border-[#fff] rounded-[4px] p-[0_8px] h-[40px] text-[#0f172a] font-[Montserrat-medium] text-[14px] hover:bg-[white] hover:duration-[0.50s] hover:text-[#0f172a] dark:text-[white] dark:hover:text-[#0f172a] shadow' onClick={() => { { handleOpenLogin() } }}>{t("header.button1")}</button>
-              <button className='bg-[#e00707] hover:bg-[rgb(255,67,67)] p-[0_8px] h-[40px] rounded-[4px] text-[white] font-[Montserrat-medium] mr-[20px] text-[14px] hover:duration-[0.30s]' onClick={() => { { handleOpen() } }}>{t("header.button2")}</button>
+              <button className='bg-[#e00707] hover:bg-[rgb(255,67,67)] p-[0_8px] h-[40px] rounded-[4px] text-[white] font-[Montserrat-medium] mr-[10px] text-[14px] hover:duration-[0.30s]' onClick={() => { { handleOpen() } }}>{t("header.button2")}</button>
             </div>}
             <Switcher />
           </div>
