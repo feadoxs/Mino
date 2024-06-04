@@ -1,0 +1,913 @@
+{
+  "turkish": [
+    {
+      "id": "1",
+      "name": "1. Ресторан Мерве",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Турецкая кухня",
+      "food2": "Десерты",
+      "food3": "Стейки",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "/src/assets/images/Merve.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "/src/assets/images/merve1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "2. Ресторан Искендер",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "/src/assets/images/iskandar1.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "/src/assets/images/iskandar1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "3. Ресторан Sait Efendi",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Десерты",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/60939/conversions/Zc6u9BaBIv-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/8185/conversions/VitHRhhjtG-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "4. Ресторан Citir Usta",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/60925/conversions/6JboRH2jCV-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/11446/conversions/Bm0T02NB74-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "5. Ресторан Сафо",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/58735/conversions/3357190737166184902108038165083255273046766n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/14245/conversions/5htC4L88SP-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "6. Ресторан Assado",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/17698/conversions/FB7mIgRwnd-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/17698/conversions/FB7mIgRwnd-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "7. Ресторан Мино",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/60881/conversions/274359346131…21994691877640866334nresponsive14401440-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/43749/conversions/277244677646140416685810429861867322414941n-panel.jpgА"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "8. Ресторан Zaitoun",
+      "adress": "улица Др. Народов 47",
+      "locales": "(Пивзавод)",
+      "food1": "Рестораны",
+      "food2": "Турецкая кухня",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/60915/conversions/SY24dyw0JU-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/13501/conversions/etPbKnfi0g-panel.jpg"
+        }
+      ]
+    }
+  ],
+  "nationation": [
+    {
+      "id": "9",
+      "name": "1. Кафе AJWA",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Свадебные залы",
+      "food3": "Залы для мероприятий",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/61009/conversions/2715558369398183333417908820298427970710464n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/61007/conversions/2702943032079229848802773520389718423101319n-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "/src/assets/images/yakkasaroy3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "2. Ресторан Токи",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "/src/assets/images/toki1.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "/src/assets/images/toki2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "3. Ресторан Сафо",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/58741/conversions/3020711997820560962490221174789197200543030n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/58739/conversions/3021828505706904648079377906483565011974877n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "4. Ресторан ZEM ZEM",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/25384/conversions/47N4bIQY9i-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/25392/conversions/QEq7QHZt9Q-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "5. Ресторан SULTANBEY",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/64198/conversions/2pySZSDAaY-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/36890/conversions/17j6xJNWfn-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "6. Ресторан Ozyurt",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/42287/conversions/3240611646669876885527593744748390087983822n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/42285/conversions/280088345776552947063035348161418470553768n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "7. Ресторан Taylan Şef & Iskender",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/45722/conversions/2832524434382813946959094861345683045952634n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/45720/conversions/32593041735290644406485473207986529652997913n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "8. Ресторан Яккасарой Family",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/75627/conversions/AF1QipNV5ExeUL3YzuYLTQZrozV8ki7bfSLPULirGHAs677-k-no-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/64742/conversions/34328846312936199448863704250626442113990384n-panel.jpg"
+        }
+      ]
+    }
+  ],
+  "burger": [
+    {
+      "id": "17",
+      "name": "1. BBQ Burger House",
+      "adress": "проспект Рудаки 30/1",
+      "locales": "(Citir Usta)",
+      "food1": "Фастфуд",
+      "food2": "Бургеры",
+      "food3": "Пицца",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "/src/assets/images/burger1.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "/src/assets/images/burger2.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "/src/assets/images/burger.jpg"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "2. Таги Дом Lounge",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/37440/conversions/w6Ap0ZX7Xk-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/9476/conversions/aF3qYSvr8n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "3. Coppa Italia Food Stand",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/61196/conversions/HegcNBxKL5-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/11300/conversions/A7U4kWewV6-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "https://cdn.mino.tj/11299/conversions/Y8FiAKO2I4-panel.jpgF"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "4. Гастропаб Marco Polo",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/67989/conversions/IMG20230819170148274-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/24455/conversions/NqyEfyhevK-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "https://cdn.mino.tj/24454/conversions/tQCpyAGdXG-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "5. Bundes Bar",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/61077/conversions/ZrXK7wqYOu-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/37448/conversions/nZYjlLCCid-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "https://cdn.mino.tj/29356/conversions/xdZ1Fs90dJ-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "6. Coffee Moose",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/58339/conversions/photo2023-03-2011-08-25-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/56886/conversions/2369950443010195017809127103267605728577722n-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "https://cdn.mino.tj/56884/conversions/AF1QipO3BzyiwJyO9MI5fcOZxQjMAPSuoiNReIwIaVyks1536-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "7. Кафе Burger J",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/60973/conversions/278395953413…45290170592318681059nresponsive14401440-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/42429/conversions/2556208059383153434485851769206794021175934n-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "https://cdn.mino.tj/42427/conversions/27828418150896491755880356819190090529755n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "8. IZZI Hot Dogs & Burgers",
+      "adress": "проспект Н. Махсум 72/1",
+      "locales": "(Пивзавод)",
+      "food1": "Кальян-бары",
+      "food2": "Пицца",
+      "food3": "Бургеры",
+      "time": "до 00:00 полуночи",
+      "comment": "“Хороший сервис обслуживания. С друзьями пообедали. Качество приготовления пищи-хорошее. Рекомендую этот ресторан ...” ",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/55882/conversions/photo2023-03-0711-30-36-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/36686/conversions/rAeeKCkDlL-panel.jpg"
+        },
+        {
+          "id": "3",
+          "imageName": "https://cdn.mino.tj/36685/conversions/efqNC3YmmF-panel.jpg"
+        }
+      ]
+    }
+  ],
+  "plow": [
+    {
+      "id": "25",
+      "name": "1. Ресторан Токи",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Maнты",
+      "food2": "Плов",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "/src/assets/images/toki1.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "/src/assets/images/toki2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "2. Чайхана Мунаввара",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "/src/assets/images/plow1l.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "/src/assets/images/plow2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "3. Чайхана Даврон",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Национальная кухня",
+      "food2": "Плов",
+      "food3": "Шашлыки",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/61103/conversions/Gq5rAxRKtl-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": ""
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "4. Плов Хаус",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Чайные напитки",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/76159/conversions/photo2024-05-1114-31-56-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/70432/conversions/2759314761550680769199618703722532710618939n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "5. МАРКАЗИ ОШ",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/71803/conversions/419883062182646505482031444215040230898761956n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/71802/conversions/419852242182646505752031445364263078472492810n-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "6. Ресторан Суфра",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/73089/conversions/4261931027166454505943962242878695889775340n-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/73086/conversions/IMG20240216210234-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "7. Кафе-бистро Душанбе",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/61268/conversions/M5jfJ51GAg-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/16467/conversions/QVVgEbaPIc-panel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "8. Лагман Хаус",
+      "adress": "проспект С. Шерози 22/2",
+      "locales": "(Шарқи озод)",
+      "food1": "Рестораны",
+      "food2": "Чайханы",
+      "food3": "Национальная кухня",
+      "time": "до 00:00 полуночи",
+      "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+      "images": [
+        {
+          "id": "1",
+          "imageName": "https://cdn.mino.tj/60408/conversions/qE2jVt4wpK-panel.jpg"
+        },
+        {
+          "id": "2",
+          "imageName": "https://cdn.mino.tj/37436/conversions/zjNXMyCgTx-panel.jpg"
+        }
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Test",
+      "surname": "Volk",
+      "phone": "98269236",
+      "password": "vdfvdf"
+    },
+    {
+      "id": "96ee",
+      "name": "test",
+      "surname": "bot",
+      "phone": "12345",
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "id": "895c",
+      "name": "test",
+      "surname": "bot",
+      "phone": "12345",
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "id": "dddb",
+      "name": "test",
+      "surname": "bot",
+      "phone": "12345",
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "id": "0d03",
+      "name": "test",
+      "surname": "bot",
+      "phone": "12345",
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "id": "8eb4",
+      "name": "test",
+      "surname": "bot",
+      "phone": "12345",
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "id": "5fdb",
+      "name": "test",
+      "surname": "bot",
+      "phone": "12345",
+      "password": "1234",
+      "cart": []
+    },
+    {
+      "id": "558e",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": [
+        {
+          "id": "4",
+          "name": "2. Ресторан Токи",
+          "adress": "проспект С. Шерози 22/2",
+          "locales": "(Шарқи озод)",
+          "food1": "Рестораны",
+          "food2": "Чайханы",
+          "food3": "Национальная кухня",
+          "time": "до 00:00 полуночи",
+          "comment": "“отличный сервис. Вкусная кухня. Шикарная атмосфера”",
+          "images": [
+            {
+              "id": "1",
+              "imageName": "/src/assets/images/toki1.jpg"
+            },
+            {
+              "id": "2",
+              "imageName": "/src/assets/images/toki2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e3a",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "63eb",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "3050",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "e653",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "65aa",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "c515",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "7960",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "e7c7",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "bb62",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "466b",
+      "name": "cefe",
+      "surname": "bhrhr",
+      "phone": "45432",
+      "password": "bgr",
+      "cart": []
+    },
+    {
+      "id": "60ff",
+      "name": "dewdw",
+      "surname": "ddew",
+      "phone": "1234567",
+      "password": "dewdew",
+      "cart": []
+    },
+    {
+      "id": "0900",
+      "name": "feadoxs",
+      "surname": "",
+      "phone": "1111",
+      "password": "feadoxs",
+      "cart": []
+    },
+    {
+      "id": "2b33",
+      "name": "1",
+      "surname": "",
+      "phone": "1111",
+      "password": "1",
+      "cart": []
+    },
+    {
+      "id": "5ca0",
+      "name": "feadoxs",
+      "surname": "",
+      "phone": "1111",
+      "password": "fedoxs",
+      "cart": []
+    }
+  ]
+}
